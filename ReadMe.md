@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as Engineering Intern @Riskcovry<br>Currently I'm a C.S.E student @PES University<br>One of my main focus lie on developmental apps, which may involve either Web dev apps or android Apps<br>I'm also intrested in AI related projects,which I have worked on recently<br>I enjoy coding, and would like to contribute with similar projects that I work on .
+I'm currently working as an Engineering Intern @Riskcovry<br>Currently I'm a C.S.E student @PES University<br>One of my main focus lie on developmental apps, which may involve either Web dev apps or android Apps<br>I'm also intrested in AI related projects,which I have worked on recently<br>I enjoy coding, and would like to contribute with similar projects that I work on .
 
 
 ## 🌐 Socials:
