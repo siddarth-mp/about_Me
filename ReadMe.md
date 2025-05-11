@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently working as an Engineering Intern @Riskcovry<br>Currently I'm a C.S.E student @PES University<br>One of my main focus lie on developmental apps, which may involve either Web dev apps or android Apps<br>I'm also intrested in AI related projects,which I have worked on recently<br>I enjoy coding, and would like to contribute with similar projects that I work on .
+Hi there, Myself Siddarth, currently working at AT&T as SDE. My time at AT&T mainly revolves around backend related functionalities such as working on Java classes, data retreival from SQL DB,etc
+I pursued my graduation at PES University,Banglore (2024 Batch), Briefly to tell about myself I'm someone who love to work on things that actually make an impact on real world at the end of the day be it a small functionality or a major task,
+because that's what keeps me motivated to do stuff, Coming to my hobbies I like to trek,play football, watch Movies.. 😂
 
 
 ## 🌐 Socials:
@@ -16,7 +18,6 @@ I'm currently working as an Engineering Intern @Riskcovry<br>Currently I'm a C.S
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=siddarth-mp&icon=0&color=0)](https://visitcount.itsvg.in)
